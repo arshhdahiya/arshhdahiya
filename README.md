@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshhdahiya&label=Profile%20views&color=0e75b6&style=flat" alt="arshhdahiya" /> </p>
 
-- 🔭 I’m currently working on **scaling up my tech stack**
+- 🔭 I’m currently working on **scaling up my Tech Stack**.
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Backend**.
 
 - 💬 Ask me about **Android, Flutter, AI&ML, Reverse Engineering, Cyber Security**
 
@@ -29,9 +29,9 @@
 <hr style="border: 1px solid #000; width: 50%; margin: 20px auto;">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arshhdahiya&show_icons=true&locale=en&layout=compact" alt="arshhdahiya" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api?username=arshhdahiya&show_icons=true&locale=en" alt="arshhdahiya" height="140" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arshhdahiya&" alt="arshhdahiya" height=140 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arshhdahiya&show_icons=true&locale=en&layout=compact" alt="arshhdahiya" height="210" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arshhdahiya&show_icons=true&locale=en" alt="arshhdahiya" height="210" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arshhdahiya&" alt="arshhdahiya" height=210 />
   
 </p>
 
