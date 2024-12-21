@@ -29,8 +29,8 @@
 <hr style="border: 1px solid #000; width: 50%; margin: 20px auto;">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshhdahiya&show_icons=true&locale=en" alt="arshhdahiya" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arshhdahiya&" alt="arshhdahiya" height=170 />
+  <img src="https://github-readme-stats.vercel.app/api?username=arshhdahiya&show_icons=true&locale=en" alt="arshhdahiya" height="140" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arshhdahiya&" alt="arshhdahiya" height=140 />
   
 </p>
 
