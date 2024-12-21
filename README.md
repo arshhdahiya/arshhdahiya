@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshhdahiya&label=Profile%20views&color=0e75b6&style=flat" alt="arshhdahiya" /> </p>
 
-- 🔭 I’m currently working on **publishing my first app to the playstore**
+- 🔭 I’m currently working on **scaling up my tech stack**
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **Android, Flutter**
+- 💬 Ask me about **Android, Flutter, AI&ML, Reverse Engineering, Cyber Security**
 
 - 📫 How to reach me **arshhdahiya@gmail.com**
 
