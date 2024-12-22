@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-<img width=870 src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img width=900 src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   
 </p>
 
