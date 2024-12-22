@@ -7,7 +7,7 @@
 
 
 ## 👋 About Me
-<img align="right" alt="Coding" width="300" src="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559">
+<img align="right" alt="Coding" height="235" src="https://github.com/arshhdahiya/arshhdahiya/blob/main/tenor.gif">
 
 - 🔭 Currently working on **developing my website**
   
