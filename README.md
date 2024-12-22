@@ -7,7 +7,7 @@
 
 
 ## 👋 About Me
-<img align="right" alt="Coding" height="235" src="https://github.com/arshhdahiya/arshhdahiya/blob/main/tenor.gif">
+<img align="right" alt="Coding" height="220" src="https://i.gifer.com/3ZSH.gif">
 
 - 🔭 Currently working on **developing my website**
   
