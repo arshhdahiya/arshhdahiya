@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshhdahiya&label=Profile%20views&color=0e75b6&style=flat" alt="arshhdahiya" /> </p>
 
-- 🔭 I’m currently working on **scaling up my Tech Stack**.
+- 🔭 I’m currently working on **developing my website**.
 
-- 🌱 I’m currently learning **Backend**.
+- 🌱 I’m currently learning **backend**.
 
 - 💬 Ask me about **Android, Flutter, AI&ML, Reverse Engineering, Cyber Security**
 
