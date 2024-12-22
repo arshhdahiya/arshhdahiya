@@ -31,6 +31,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arshhdahiya&show_icons=true&locale=en" alt="arshhdahiya" height="167" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshhdahiya&" alt="arshhdahiya" height=167 />
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   
 </p>
 
