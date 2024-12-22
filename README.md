@@ -1,4 +1,4 @@
-<img height=175 alt="banner" src="https://github.com/arshhdahiya/arshhdahiya/blob/main/banner.gif">
+<img height=180 alt="banner" src="https://github.com/arshhdahiya/arshhdahiya/blob/main/banner.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=arshhdahiya&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
