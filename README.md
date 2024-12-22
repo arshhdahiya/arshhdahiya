@@ -36,8 +36,8 @@
 
 ## 📈 My Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshhdahiya&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="167" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshhdahiya&theme=radical" alt="GitHub Streak" height="167" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arshhdahiya&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshhdahiya&theme=radical" alt="GitHub Streak" height="150" />
 </p>
 
 <p align="center">
